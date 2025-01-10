@@ -1,0 +1,159 @@
+.child{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    height: 410px;
+    width: 400px;
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 10px black;
+    margin-left: 120px;
+    margin-top: 40px;
+    overflow: hidden;
+    gap: 20px;
+
+ }
+ .main{
+   width:800px;
+   height: 700px;
+   margin-left: 200px;
+ }
+ .container{
+   display: flex;
+   gap: 20px;
+ }
+ .child2{
+    border: 2px solid black;
+    height: 200px;
+    width: 150px;
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 10px black
+ }
+ .p1{
+    width: 400px;
+    border-bottom: 1px solid black;
+ }
+ .p2{
+    width: 400px;
+    border-bottom: 1px solid black;
+ }
+ .q1{
+    width: 400px;
+    border-bottom: 1px solid black;
+ }
+ .q2{
+    width: 400px;
+    border-bottom: 1px solid black;
+ }
+ .p3 {
+    width: 400px;
+    margin-left: 130px;
+ }
+ .left{
+   margin-left: 120px;
+ }
+ h4{
+   margin-bottom: 200px;
+ }
+
+ .rr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+ }
+ .bb{
+   margin-right: 300px;
+ }
+ button{
+    background-color: rgb(52, 52, 180);
+    height: 40px;
+    width: 150px;
+    color: white;
+    border-radius: 4px;
+    border: 0px;
+    margin-left: 150px;
+}
+button:hover{
+    opacity: 0.6;
+    background-color: purple;
+}
+strong{
+    color: purple;
+    font-size: larger;
+ }
+
+.container{
+    margin-left: 150px;
+    
+}
+h2{
+    margin-left: 180px;
+}
+h4{
+    margin-left: 180px;
+}
+.footer{
+   display: flex;
+   margin-left: 200px;
+   gap: 40px;
+   background-color: rgb(235, 238, 241);
+   height: 380px;
+   
+}
+
+.img11{
+   display: flex;
+   
+   margin-top: 10px;
+   justify-content: space-between;
+}
+
+ .dd{
+   margin-left: 50px;
+   margin-top: 1px; 
+}
+.er{
+   margin-left: 30px;
+   margin-bottom: 80px;
+} 
+.et{
+   margin-left: 30px;
+   margin-bottom: 80px;
+}
+.ef{
+   margin-left: 30px;
+   margin-bottom: 80px;
+}
+.img12{
+
+   margin-bottom: 500px;
+
+}
+.eg{
+   margin-left: 1px;
+   margin-bottom: 150px;
+
+}
+.img13{
+   display: flex;
+   gap: 10px;
+}
+.eh{
+   margin-left: 1px;
+   margin-bottom: 150px;
+}
+.ej{
+   margin-left: 1px;
+   margin-bottom: 150px; 
+}
+.ek{
+  margin-left: 1px;
+   margin-bottom: 150px; 
+}
+
+
+

@@ -1,0 +1,69 @@
+.container{
+    background-color: black;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+    height: 50px;
+    width: 100%;
+    margin-bottom: 30px;
+    display: flex;
+    
+}
+i{
+    margin-left: 800px;
+    padding: 4px;
+}
+p{
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: larger;
+
+}
+.qq{
+    margin-top: 100px;
+    margin-left: 80px;
+}
+.qq1{
+    border-radius: 2px solid black;
+    height: 200px;
+    width: 530px;
+    background-color: azure;
+    margin-left: 70px;
+
+
+}
+strong{
+    color: red;
+    font-size: larger;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.cc{
+    color: blue;
+    font-size: larger;
+    margin-top: 30px;
+    gap: 50px;
+}
+button:hover{
+    background-color: purple;
+}
+a{
+    text-decoration: none;
+    color: white;
+    gap: 50px;
+}
+    button{  
+        height: 40px;
+        width: 90px;
+        background-color: blue;
+        color: white;
+}
+.main2{
+    display: flex;
+    gap: 40px;
+}
+button{
+    margin-bottom: 40px;
+}
